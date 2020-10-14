@@ -66,7 +66,7 @@ I learned to combine the skills I've learned in Onshape to put together my assem
 
 ## Frame
 ![Frame Image](https://github.com/alewand78/Basic_Onshape_CAD/blob/master/frame.png?raw=true)
-![Dowel Pins Image]()
+![Dowel Pins Image](https://github.com/alewand78/Basic_Onshape_CAD/blob/master/pins.png?raw=true)
 ### Description
 This is the Frame / Dowel Pins Assignment.
 ### Lesson Learned
