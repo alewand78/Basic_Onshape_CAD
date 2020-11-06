@@ -72,4 +72,11 @@ This is the Frame / Dowel Pins Assignment.
 ### Lesson Learned
 I learned to use use configurations and to trouble shoot incorrect mate values.
 
+## Onshape Challenge
+![Challenge Image](https://github.com/alewand78/Basic_Onshape_CAD/blob/master/Screen%20Shot%202020-11-05%20at%2011.50.19%20PM.png?raw=true)
+### Description
+This is the week 5 Onshape Challenge.
+### Lesson Learned
+I learned to challenge my onshape abilities.
+
 
